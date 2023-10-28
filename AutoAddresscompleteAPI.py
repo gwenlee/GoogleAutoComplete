@@ -1,4 +1,5 @@
-#Google api detail : https://developers.google.com/maps/documentation/places/web-service/autocomplete
+#This task completes incomplete address, the output returns the full address with Google address format.
+#Google api doc : https://developers.google.com/maps/documentation/places/web-service/autocomplete
 import googlemaps
 
 mykey = 'Enter your key'
